@@ -1,1 +1,9 @@
-"Tue Jan 17 2017 23:34:00 GMT-0800 (Pacific Standard Time)" 
+// import { Schema, model } from 'mongoose';
+// import Paginator from 'mongoose-paginate-v2';
+
+// const PostSchema = new Schema({}, { timestamp: true });
+
+// PostSchema.plugin(Paginator);
+
+// const Post = model('posts', PostSchema);
+// export default Post;
